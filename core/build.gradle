@@ -1,0 +1,11 @@
+import java.util.regex.Pattern
+
+repositories {
+    mavenCentral()
+}
+
+project.ext {
+    versionCode = 135
+    versionName = "2017.5-rc2"
+}
+
